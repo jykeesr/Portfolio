@@ -1,0 +1,119 @@
+/**********************************
+
+COMMON
+
+**********************************/
+
+body{
+    font-family: "monospace",sans-serif;
+    background-color:white;
+}
+
+.nav-item {
+    color: red;
+}
+.navbar-brand{
+
+    color:white;
+    font-size:23px;
+    font-weight:bold;
+}
+a .nav-link{
+    color:white;
+     
+}
+
+p{
+    font-size:14px;
+}
+h2{
+    font-weight:bold;
+    font-size:30px;
+    margin-bottom:20px;
+    margin-top:60px;
+}
+/*****************************
+
+ABOUT
+
+*****************************/
+
+#about{
+    margin:60px auto;
+    max-width:400px;
+    text-align:center;
+}
+#about .prf{
+    border-radius:50%;
+    width:180px;
+    margin-bottom:10px;
+}
+
+#about .name{
+    font-size:24px;
+    font-weight:bold;
+    margin-top:15px;
+}
+#about .vocation{
+    font-size:19px;
+    color: #a8a8ab;
+}
+#about .skills{
+    font-size:15px;
+    color:rgb(27, 187, 179);
+    margin-top:10px;
+    margin-bottom: 10px;
+}
+#about .email{
+    margin-top:15px;
+    font-size:15px;
+}
+#about .icons a{
+    color: rgb(0, 0, 0);
+    margin-top:15px;
+    font-size:30px;
+}
+
+/***************************
+
+PROJECT
+
+***************************/
+
+#projects{
+    margin:60px auto;
+    width:80%;
+
+}
+.netflix {
+    display: flex;
+    MARGIN: 3VW;
+    margin-left:4vw;
+    margin-top:1vw;
+    border: black;
+    border-width: 0.5px;
+    border-color:rgb(199, 202, 206);
+    
+}
+img.netflixlogo {
+    width: 25vw;
+}
+
+.EX {
+    text-align: left;
+    margin-left: 2vw;
+    margin-top:2vw;
+}
+h3{
+    font-weight:bold;
+}
+.Button button{
+    color:white;
+    background-color: black;
+}
+P.login{
+    color: #a8a8ab;
+}
+.netflix{
+    border-style: solid;
+}
